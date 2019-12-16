@@ -1,2 +1,2 @@
 # test-repo
-test 00
+test 0
